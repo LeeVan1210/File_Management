@@ -1,14 +1,12 @@
 # File_Management
 FileIO Project
 
+
 package com.file;
 import java.util.*;
 import java.io.*;
 import java.nio.file.*;
-/**
- *
- * @author Clint
- */
+
 public class FileIO {
     public static String fileName,fileWrite;
     public static int choice;
